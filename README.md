@@ -49,4 +49,4 @@ Validated endpoints using GET, POST, PUT, and DELETE requests, ensuring accurate
 📍 Naucalpan, Estado de México  
 📧 [rosemedinaolvera@gmail.com](mailto:rosemedinaolvera@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rosemedol)  
-🔗 [Portfolio in Notion]([https://tu-link-de-notion-aquí](https://likeable-beetle-65f.notion.site/Portafolio-QA-Rosa-E-Medina-dae539ec2a344fe3b415402978d88e65?source=copy_link))
+🔗 [Portfolio in Notion](https://likeable-beetle-65f.notion.site/Portafolio-QA-Rosa-E-Medina-dae539ec2a344fe3b415402978d88e65?source=copy_link)
